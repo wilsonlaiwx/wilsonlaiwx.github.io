@@ -6,7 +6,8 @@
   "homepage": "https://wilsonlaiwx.github.io/",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
-    "deploy": "gh-pages -m master -d dist"
+    "scss-compile": "node-sass -rw scss -o dist/css",
+    "deploy": "gh-pages -b master -d dist"
   },
   "author": "Wilson",
   "license": "MIT",
