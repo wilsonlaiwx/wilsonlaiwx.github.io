@@ -13,6 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "node-sass": "^4.9.2"
+    "node-sass": "^4.9.3",
+    "yarn": "^1.9.4"
   }
 }
