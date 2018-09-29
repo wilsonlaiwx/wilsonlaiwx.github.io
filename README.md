@@ -1,2 +1,2 @@
-# wilsonlaiwx.github.io
-personal portfolio website
+# Wilson's personal portfolio website
+personal portfolio website build with sass
